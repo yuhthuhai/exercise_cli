@@ -1,1 +1,1 @@
-console.log('Wait a minute');
+console.log('Hello world');
